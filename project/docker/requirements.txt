@@ -15,7 +15,7 @@ gunicorn==19.8.1
 eventlet==0.22.1
 jieba==0.39 # 源数据做词云
 pika==1.0.1 # 连接 RabbitMQ 时用
-Pillow==6.2.0 # 在线标注画嫌疑框
+Pillow==8.2.0 # 在线标注画嫌疑框
 qiniu==7.2.4 # 源数据头像上传
 # mysql==0.0.2
 # pymssql==2.1.4
